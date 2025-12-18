@@ -4,7 +4,8 @@ crewai
 sqlalchemy
 pydantic
 python-jose[cryptography]
-passlib[bcrypt]
+passlib
+bcrypt==3.2.2
 python-multipart
 google-generativeai
 psycopg2-binary
