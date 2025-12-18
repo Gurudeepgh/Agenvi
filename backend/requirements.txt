@@ -5,7 +5,7 @@ sqlalchemy
 pydantic
 python-jose[cryptography]
 passlib
-argon2-cffi
+bcrypt==4.0.1
 python-multipart
 google-generativeai
 psycopg2-binary
