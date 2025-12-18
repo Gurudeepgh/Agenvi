@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+crewai
+sqlalchemy
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+google-generativeai
+psycopg2-binary
